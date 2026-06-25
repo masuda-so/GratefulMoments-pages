@@ -46,4 +46,4 @@ Open a GitHub issue for tracked work, or use the support contact documented by t
 
 ## License
 
-Not declared yet.
+Licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
