@@ -6,6 +6,10 @@
 
 Static public landing, privacy, and support pages for GratefulMoments.
 
+## Why this project is useful
+
+This repository keeps public-facing product information, privacy details, and support resources in a single place so the GratefulMoments experience stays easy to browse and maintain.
+
 ## Status
 
 Public GitHub Pages repository.
@@ -40,9 +44,15 @@ Do not commit credentials, personal data, local machine paths, generated databas
 
 Repository operation follows [CONTRIBUTING.md](CONTRIBUTING.md), the pull request template, and staged `protect-main` rules where available. Private repositories document the same policy even when GitHub plan constraints prevent rulesets.
 
-## Support
+## Where to get help
 
-Open a GitHub issue for tracked work, or use the support contact documented by the product when available.
+- Review [CONTRIBUTING.md](CONTRIBUTING.md) for repository workflow expectations.
+- Open a GitHub issue for tracked work, or use the support contact documented by the product when available.
+- See [SECURITY.md](SECURITY.md) for security reporting guidance.
+
+## Maintainers and contributing
+
+This repository is maintained by the project maintainers. Contributions are welcome through focused pull requests that keep the site content clear and reviewable. See [CONTRIBUTING.md](CONTRIBUTING.md) for the contribution workflow.
 
 ## License
 
