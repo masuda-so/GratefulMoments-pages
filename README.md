@@ -1,7 +1,5 @@
 # GratefulMoments-pages
 
-[日本語版](README.ja.md)
-
 ## Overview
 
 Static public landing, privacy, and support pages for GratefulMoments.
